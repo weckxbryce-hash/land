@@ -1,0 +1,27 @@
+[
+  {
+    "naam": "Brussel",
+    "land": "België",
+    "inwoners": 1210000
+  },
+  {
+    "naam": "Amsterdam",
+    "land": "Nederland",
+    "inwoners": 872000
+  },
+  {
+    "naam": "Parijs",
+    "land": "Frankrijk",
+    "inwoners": 2161000
+  },
+  {
+    "naam": "Berlijn",
+    "land": "Duitsland",
+    "inwoners": 3645000
+  },
+  {
+    "naam": "Madrid",
+    "land": "Spanje",
+    "inwoners": 3223000
+  }
+]
